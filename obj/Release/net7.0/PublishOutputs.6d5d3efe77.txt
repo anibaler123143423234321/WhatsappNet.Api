@@ -1,0 +1,10 @@
+D:\NUEVO\WhatsappNet\WhatsappNet.Api\obj\Release\net7.0\PubTmp\Out\WhatsappNet.Api.exe
+D:\NUEVO\WhatsappNet\WhatsappNet.Api\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\NUEVO\WhatsappNet\WhatsappNet.Api\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\NUEVO\WhatsappNet\WhatsappNet.Api\obj\Release\net7.0\PubTmp\Out\WhatsappNet.Api.dll
+D:\NUEVO\WhatsappNet\WhatsappNet.Api\obj\Release\net7.0\PubTmp\Out\WhatsappNet.Api.deps.json
+D:\NUEVO\WhatsappNet\WhatsappNet.Api\obj\Release\net7.0\PubTmp\Out\WhatsappNet.Api.runtimeconfig.json
+D:\NUEVO\WhatsappNet\WhatsappNet.Api\obj\Release\net7.0\PubTmp\Out\WhatsappNet.Api.pdb
+D:\NUEVO\WhatsappNet\WhatsappNet.Api\obj\Release\net7.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NUEVO\WhatsappNet\WhatsappNet.Api\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\NUEVO\WhatsappNet\WhatsappNet.Api\obj\Release\net7.0\PubTmp\Out\OpenAI_API.dll

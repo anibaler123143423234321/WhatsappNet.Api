@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "L9jaAeomBhvoBTDXoB8yBr7k8KKV/ulPUjtYJRdAw0A=",
+  "Source": "WhatsappNet.Api",
+  "BasePath": "_content/WhatsappNet.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "WhatsappNet.Api.Controllers.WhatsappController",
+    "Method": "VerifyToken",
+    "RelativePath": "api/whatsapp",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WhatsappNet.Api.Controllers.WhatsappController",
+    "Method": "ReceivedMessage",
+    "RelativePath": "api/whatsapp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "body",
+        "Type": "WhatsappNet.Api.Models.WhatsappCloud.WhatsAppCloudModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WhatsappNet.Api.Controllers.WhatsappController",
+    "Method": "Sample",
+    "RelativePath": "api/whatsapp/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
